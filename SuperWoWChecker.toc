@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: SuperWoWChecker
+## Version: 1.0
+## Author: Ama
+## Notes: checks super wow
+SuperWoWChecker.lua
